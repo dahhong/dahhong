@@ -10,8 +10,8 @@
 🛠️ Tech Stack!
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F05138"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=F05138"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=F05138"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=F05138"/></a>
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-8C4FFF?style=for-the-badge&logo=&logoColor="/></a>
