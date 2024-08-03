@@ -1,13 +1,13 @@
 <div align="center"> 
 
-🐯 Find me here !
+🙋‍♀️ 
 
-<a href="https://www.dahhong.com" target="_blank"><img src="https://img.shields.io/badge/Blog-F08705?style=for-the-badge&logo=&logoColor="/></a>
+<a href="https://dahhongdu.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Blog-F08705?style=for-the-badge&logo=&logoColor="/></a>
 <a href="https://www.instagram.com/dahhongee/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=f5f5dc&logoColor=E4405F"/></a>
 [<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:hdaisywd@gmail.com)
 
 
-🛠️ Tech Stack!
+🛠️ 기술 스택 🛠️
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F05138"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
@@ -23,10 +23,5 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dahhong)](https://solved.ac/dahhong)  
 <br/>
-<img src="http://mazandi.herokuapp.com/api?handle=dahhong&theme=warm"/>
-<br/><br/>
-
---------------------------------------------------
-
 ![hdaisywd's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahhongdu&PAT_1&show_icons=true&theme=radical)
 <br/>
